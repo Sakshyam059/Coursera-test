@@ -38,7 +38,6 @@ section>h2 {
     margin: 0;
     width: 230px;
     text-align: center;
-    font-style: Times;
     font-size: 24px;
     font-weight: bold;
     height: 45px;
@@ -55,6 +54,18 @@ section.food2>h2 {
 
 section.food3>h2 {
     background-color: #6bd3ff;
+}
+
+.food1:hover {
+    background-color: #fcee81;
+}
+
+.food2:hover {
+    background-color: #b58fc2;
+}
+
+.food3:hover {
+    background-color:#bcf5e2;
 }
 
 section>p {
